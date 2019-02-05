@@ -6,15 +6,13 @@
 
 ### Workshop Topics
 
-This workshop, 'Analyses of RNA-seq and ChiP-seq with R/Bioconductor', is designed to expand upon the Bioconductor training provided in the first Bioconductor workshop; it is an intermediate-level lecture that presupposes some knowledge of R like that found in our 'Fundamentals of R' workshop.  The topics presented herein include the following:
+This workshop, 'RNA-seq QC and Exploratory Data Analysis Using Bioconductor Workshop', is designed to expand upon the Bioconductor training provided in the first Bioconductor workshop; it is an intermediate-level lecture that presupposes some knowledge of R like that found in our 'Fundamentals of R' workshop.  The topics presented herein include the following:
 
 * Standard exploratory analyses for RNA-seq Data
-   * Approaches to processing raw data from RNA seq experiments
-   * Annotating and importing expression counts
    * Cleaning data / removing artefacts
    * Transformations for improving model fit
-   * PCA and MDS plotting
    * Box plots for between-sample distribution comparison
+   * PCA and MDS plotting
 
 
 
